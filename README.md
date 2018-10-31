@@ -2,9 +2,9 @@
 it will classify the genre of a music.
 
 ### Tools Required
-tflearn \n
-sox(for creating spectrogram image from music) \n
-tensorflow(backend) \n
-numpy \n
+tflearn  
+sox(for creating spectrogram image from music)   
+tensorflow(backend)  
+numpy  
 
 
