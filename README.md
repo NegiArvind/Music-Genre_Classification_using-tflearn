@@ -8,7 +8,8 @@ tensorflow(backend)
 numpy  
 
 ### Structured of dataset
-The structure of dataset is like as below  
+The structure of dataset is like as below 
+'''
 data  
    |  
    |_________RawDataset__________  
@@ -24,6 +25,7 @@ data
                   |_____validation_y.pkl  
                   |_____test_X.pkl  
                   |_____test_y.pkl  
+'''  
    The structure for Spectrograms will be same as structure of RawDataset.The  only change will be instead of abc.mp3 there will be abc.png,xyz.png.  
    Same for the Slices also..  
                         
